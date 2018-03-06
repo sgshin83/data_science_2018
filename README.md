@@ -8,7 +8,7 @@
 #### 1.2 왜 파이썬인가? 
 #### 1.3 scikit-learn 
 - 1.3.1 scikit-learn 설치 
-#### 1.4 필수 라이브러리와 도구들 
+#### 1.4 [필수 라이브러리와 도구들](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter01/1.4.ipynb)
 - 1.4.1 주피터 노트북 
 - 1.4.2 NumPy 
 - 1.4.3 SciPy 

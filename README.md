@@ -18,8 +18,8 @@
 - 1.4.5 pandas 
 - 1.4.6 mglearn 
 #### 1.5 파이썬 2 vs. 파이썬 3 
-#### 1.6 이 책에서 사용하는 소프트웨어 버전 
-#### 1.7 첫 번째 애플리케이션: 붓꽃의 품종 분류 
+#### 1.6 [소프트웨어 버전 확인](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter01/1.6.ipynb) 
+#### 1.7 [첫 번째 애플리케이션: 붓꽃의 품종 분류](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter01/1.7.ipynb)
 - 1.7.1 데이터 적재 
 - 1.7.2 성과 측정: 훈련 데이터와 테스트 데이터 
 - 1.7.3 가장 먼저 할 일: 데이터 살펴보기 

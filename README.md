@@ -1,5 +1,7 @@
 ## 2018 Data Science
 
+- [원본 소스](https://github.com/link-kut/introduction_to_ml_with_python)
+
 ### CHAPTER 1 소개 
 #### 1.1 왜 머신러닝인가? 
 - 1.1.1 머신러닝으로 풀 수 있는 문제 

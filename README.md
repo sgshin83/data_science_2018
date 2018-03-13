@@ -1,5 +1,7 @@
 ## 2018 Data Science
 
+![Cover](../cover.jpg)
+
 - [원본 소스](https://github.com/link-kut/introduction_to_ml_with_python)
 
 ### CHAPTER 1 소개 

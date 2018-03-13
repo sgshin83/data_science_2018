@@ -1,6 +1,6 @@
 ## 2018 Data Science
 
-![Cover](../cover.jpg)
+![Cover](https://github.com/bluebibi/data_science_2018/blob/master/cover.jpg)
 
 - [원본 소스](https://github.com/link-kut/introduction_to_ml_with_python)
 

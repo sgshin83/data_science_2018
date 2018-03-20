@@ -1,0 +1,6 @@
+#### 2.3 지도 학습 알고리즘 
+
+- 2.3.1 [예제에 사용할 데이터셋]
+- 2.3.2 [k-최근접 이웃](http://nbviewer.jupyter.org/github/sgshin83/data_science_2018/blob/master/0_Homework/2.3.2.KNN.ipynb) 
+- 2.3.3 [선형 모델](http://nbviewer.jupyter.org/github/sgshin83/data_science_2018/blob/master/0_Homework/2.3.3.LinearRegression.ipynb) 
+- 2.3.4 [나이브 베이즈 분류기](http://nbviewer.jupyter.org/github/sgshin83/data_science_2018/blob/master/0_Homework/2.3.4.NaiveBayesClassifiers.ipynb) 
